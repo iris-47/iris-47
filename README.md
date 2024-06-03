@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning CTF pwn, reverse, misc, network programming, blockchian, etc.
 <!--
 **iris-47/iris-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
